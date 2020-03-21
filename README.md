@@ -1,3 +1,9 @@
+# 🚨 DEPRECATED 🚨
+
+Please use the following plugin instead: https://github.com/joona/CockpitCMS-Auth0
+
+---
+
 # Configuration
 
 In the Cockpit yaml `config/config.yaml`:
