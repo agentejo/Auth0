@@ -1,6 +1,6 @@
 # 🚨 DEPRECATED 🚨
 
-Please use the following plugin instead: https://github.com/joona/CockpitCMS-Auth0
+Please use the following addon instead: https://github.com/joona/CockpitCMS-Auth0
 
 ---
 
