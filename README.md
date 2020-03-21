@@ -1,4 +1,4 @@
-# 🚨 DEPRECATED 🚨
+# 🚨 ABANDONED 🚨
 
 Please use the following addon instead: https://github.com/joona/CockpitCMS-Auth0
 
